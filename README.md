@@ -8,8 +8,10 @@ Run the following commands:
 
 ```bash
 cd <magento_root>
-composer config repositories.peterch1/contacts-pro vcs git@github.com:peterch1/contactspro.git
-composer require peterch1/contacts-pro:dev-master --prefer-source
+composer config repositories.peterchmeruk/contacts-pro vcs git@github.com:peterchmeruk/contactspro.git
+composer require peterchmeruk/contacts-pro:dev-master --prefer-source
 bin/magento module:enable Smile_ContactsPro
 bin/magento setup:upgrade
 ```
+
+#### Recomended Magento Version 2.1.x
