@@ -1,0 +1,17 @@
+<!--@subject {{trans "Contact Form Answer"}} @-->
+<!--@vars {
+"var data.comment":"Comment",
+"var data.answer":"Answer",
+"var data.email":"Sender Email",
+"var data.name":"Sender Name",
+"var data.telephone":"Sender Telephone"
+} @-->
+
+{{trans "Name: %name" name=$data.name}}
+{{trans "Email: %email" email=$data.email}}
+{{trans "Phone Number: %telephone" telephone=$data.phone}}
+
+{{trans "Your Question: %comment" comment=$data.content}}
+
+
+{{trans "Answer for your question: %answer" answer=$data.answer}}

@@ -1,0 +1,20 @@
+{
+    "name": "peterch1/contacts-pro",
+    "description": "Magento 2 module to improve the standard contact us form",
+    "keywords": [
+        "contacts us",
+        "contact us form"
+    ],
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "license": ["OSL-3.0"],
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0"
+    },
+    "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": {
+            "Smile\\ContactsPro\\": ""
+        }
+    }
+}

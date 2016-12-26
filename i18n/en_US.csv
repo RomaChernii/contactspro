@@ -1,0 +1,36 @@
+Back,Back
+"Delete Question","Delete Question"
+"Are you sure you want to do this?","Are you sure you want to do this?"
+"Quick Answer","Quick Answer"
+"The question has been deleted.","The question has been deleted."
+"We can't find a question to delete.","We can't find a question to delete."
+Smile,Smile
+"Manage Questions","Manage Questions"
+"This question no longer exists.","This question no longer exists."
+"Edit Question","Edit Question"
+"New Question","New Question"
+"Question Information","Question Information"
+Questions,Questions
+"You answered the question.","You answered the question."
+"Something went wrong while answer the question.","Something went wrong while answer the question."
+New,New
+Answered,Answered
+"Question with id ""%1"" does not exist.","Question with id ""%1"" does not exist."
+Edit,Edit
+"Contact Form Answer","Contact Form Answer"
+"Name: %name","Name: %name"
+"Email: %email","Email: %email"
+"Phone Number: %telephone","Phone Number: %telephone"
+"Your Question: %comment","Your Question: %comment"
+"Answer for your question: %answer","Answer for your question: %answer"
+"Question list","Question list"
+"Save Question","Save Question"
+Name,Name
+Email,Email
+Phone,Phone
+Message,Message
+"Store View","Store View"
+ID,ID
+Created,Created
+Modified,Modified
+Status,Status
