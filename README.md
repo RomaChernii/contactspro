@@ -14,4 +14,4 @@ bin/magento module:enable Smile_ContactsPro
 bin/magento setup:upgrade
 ```
 
-#### Recomended Magento Version 2.1.x
+#### Recommended Magento Version 2.1.x
